@@ -1,0 +1,169 @@
+{
+  "slug": "peaks-of-yore",
+  "title": "Peaks of Yore",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/peaksofyore.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/peaksofyore.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/peaksofyore.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/peaksofyore.html",
+  "entryUrl": "https://truffled.lol/gamefile/peaksofyore.html",
+  "status": "done",
+  "sizeBytes": 1793358575,
+  "assetCount": 103,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/yore.data.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/yore.wasm.code.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/yore.data.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/yore.wasm.code.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/inflate.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/inflate.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/constants.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/messages.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/zstream.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/decode.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/utils/strings.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary.bin.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary-browser.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dictionary.bin.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/prefix.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/streams.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/.unityweb"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/yore.data.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/yore.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/yore.wasm.code.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/yore.wasm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/yore.data.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/yore.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/yore.wasm.code.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/yore.wasm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/decode.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/utils/strings.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/inftrees.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/zlib/inftrees.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/streams.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/huffman.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/huffman.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/transform.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/peaks-of-yore@main/Build/dec/transform.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T16:21:33.100Z",
+  "verifiedAt": "2026-11-17T16:22:39.976Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | Peaks of Yore",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.3123,
+    "rendered": true
+  }
+}
