@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "peaks-of-yore",
+    "title": "Peaks of Yore",
+    "type": "HTML",
+    "entry": "/peaksofyore.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 1793358575,
+    "thumbnail": ""
+  },
+  {
+    "slug": "totally-accurate-battle-simulator",
+    "title": "Totally Accurate Battle Simulator",
+    "type": "HTML",
+    "entry": "/index.html",
+    "developer": "",
+    "description": "",
+    "tags": [],
+    "controls": [],
+    "gamepadControls": [],
+    "controllerSupport": false,
+    "onlineOnly": false,
+    "status": "done",
+    "sizeBytes": 1831628739,
+    "thumbnail": "/thumbs/obsidian/totally-accurate-battle-simulator.webp"
+  }
+]
